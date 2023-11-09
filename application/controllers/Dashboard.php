@@ -8,4 +8,3 @@ class Dashboard extends CI_Controller {
 		$this->load->view('V_rifan');
 	}
 }
-    
