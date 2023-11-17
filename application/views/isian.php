@@ -24,10 +24,10 @@
   <div class="container-fluid">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link active" href="#">Active</a>
+        <a class="nav-link active" href="<?= base_url('dashboard') ?>">Active</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
+        <a class="nav-link" href="<?= base_url('isi') ?>">Link</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Link</a>
